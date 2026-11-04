@@ -4,6 +4,14 @@
 
 An independent Chrome extension for keeping an eye on CIMB’s public indicative SGD-to-MYR quote from your toolbar. This repository is the public support and feedback hub.
 
+## Support me
+
+If CIMB Live Rate helps you keep an eye on the SGD-MYR rate, you can [buy me a kopi](https://buymeacoffee.com/kelvinnivlek) to support its development and upkeep.
+
+Contributions are completely optional. All extension features remain free, whether you contribute or not. Sharing the extension, reporting a bug or suggesting an improvement helps too.
+
+Support goes to the independent developer, not CIMB. The link opens Buy Me a Coffee, which handles payments under its own terms and privacy policy.
+
 ## Get help or suggest an improvement
 
 [Report a bug or suggest a feature](https://github.com/kelvinnivlek-sg/cimb-live-rate/issues/new)
